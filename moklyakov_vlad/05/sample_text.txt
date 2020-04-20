@@ -1,0 +1,7 @@
+Typically, NPS surveys include one simple, yet powerful question: How likely are you to recommend product X? This question comes along with a 0-10 scale, allowing you to categorize survey respondents into Promoters (9-10), Passives (7-8), or Detractors (0-6). The NPS score is the result of subtracting the percentage of Detractors from the percentage of Promoters.
+
+By analyzing the NPS score, you gain a quick glimpse into what customers truly like and dislike about your brand, which is extremely helpful when designing new, more powerful engagement strategies. But you also need to take into account the responses to open-ended questions – which is where the biggest chunk of insights lies. Let’s see why and how.
+
+Text analysis can help you analyze feedback, such as open-ended NPS responses, to give you a clear picture of what your customers want and expect from your brand. It can help you understand why customers are happy or dissatisfied, and which topics they talk about most often. For example, by using a sentiment analysis model you can identify your brand’s standing in terms of positive and negative feedback. Another useful model is a topic classifier, which can categorize information by topic and highlight your customers’ key pain points.
+
+As your company evolves, sentiment analysis can help you spot unexpected negative comments to give you insights about how your customers perceive your product over a period of time, as well as after specific milestones, such as the introduction of new features and products, the removal of a service, and so on. 

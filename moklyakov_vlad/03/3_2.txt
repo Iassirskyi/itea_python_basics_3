@@ -1,0 +1,39 @@
+"""
+Task 3.2 Custom map
+
+
+Implement custom_map function, which will behave like the original Python map() function.
+
+Add docstring.
+
+Task 3.3 Custom filter
+
+Implement custom_filter function, which will behave like the original Python filter() function.
+
+Add docstring.
+"""
+
+
+def power(number):
+
+    result = number * number
+
+    return result
+
+
+def custom_map (function, list):
+
+
+    output = []
+
+    for i in list:
+
+        func_result = function(i)
+        output.append(func_result)
+
+    return output
+
+result_1 = custom_map(power, [1, 2, 3])
+print(result_1)
+result_2 = custom_map(lambda x: x * 3, [1, 2, 3])
+print(result_2)

@@ -1,0 +1,23 @@
+"""
+Task 3.3 Custom filter
+
+Implement custom_filter function, which will behave like the original Python filter() function.
+
+Add docstring.
+""""
+#________________________________________________________
+
+
+
+def filter_(func, args):
+
+    list = []
+    
+    for i in range(len(args)):
+       if func(args[i]) == True:
+            list.append(args[i])
+           
+    return list
+
+
+print(filter_(lambda x: x % 2, [7, 4, 5, 8, 10, 13, 9, 17, 4]))
